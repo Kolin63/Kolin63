@@ -11,6 +11,9 @@ Not the next communist society, contrary to what the emoji above may suggest.
 
 I'm not going to write about my projects here, because I already have them documented on [my website](https://kolin63.com). 
 
+<br><br><br>
+
+###### P.S. I don't normally write this amount of jokes in my README's, so don't worry, I'm not a silly goose or anything (🪿) <-- that's a goose
 <!--
 **Kolin63/Kolin63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
